@@ -1,0 +1,744 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b1f11/fast && /usr/bin/make -f CMakeFiles/cmTC_b1f11.dir/build.make CMakeFiles/cmTC_b1f11.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b1f11.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_b1f11.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b1f11
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1f11.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_b1f11.dir/testCCompiler.c.o  -o cmTC_b1f11 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_b1f11.dir/build.make:87: cmTC_b1f11] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b1f11/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d89eb/fast && /usr/bin/make -f CMakeFiles/cmTC_d89eb.dir/build.make CMakeFiles/cmTC_d89eb.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d89eb.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_d89eb.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_d89eb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d89eb.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_d89eb.dir/testCCompiler.c.o  -o cmTC_d89eb 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_d89eb.dir/build.make:87: cmTC_d89eb] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_d89eb/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_afa00/fast && /usr/bin/make -f CMakeFiles/cmTC_afa00.dir/build.make CMakeFiles/cmTC_afa00.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_afa00.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_afa00.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_afa00
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_afa00.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_afa00.dir/testCCompiler.c.o  -o cmTC_afa00 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_afa00.dir/build.make:87: cmTC_afa00] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_afa00/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e0ac4/fast && /usr/bin/make -f CMakeFiles/cmTC_e0ac4.dir/build.make CMakeFiles/cmTC_e0ac4.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e0ac4.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_e0ac4.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e0ac4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0ac4.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_e0ac4.dir/testCCompiler.c.o  -o cmTC_e0ac4 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_e0ac4.dir/build.make:87: cmTC_e0ac4] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e0ac4/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7cbc9/fast && /usr/bin/make -f CMakeFiles/cmTC_7cbc9.dir/build.make CMakeFiles/cmTC_7cbc9.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7cbc9.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_7cbc9.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_7cbc9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7cbc9.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_7cbc9.dir/testCCompiler.c.o  -o cmTC_7cbc9 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_7cbc9.dir/build.make:87: cmTC_7cbc9] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_7cbc9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9d3b2/fast && /usr/bin/make -f CMakeFiles/cmTC_9d3b2.dir/build.make CMakeFiles/cmTC_9d3b2.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9d3b2.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_9d3b2.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9d3b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9d3b2.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_9d3b2.dir/testCCompiler.c.o  -o cmTC_9d3b2 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_9d3b2.dir/build.make:87: cmTC_9d3b2] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_9d3b2/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b12c8/fast && /usr/bin/make -f CMakeFiles/cmTC_b12c8.dir/build.make CMakeFiles/cmTC_b12c8.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b12c8.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_b12c8.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b12c8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b12c8.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_b12c8.dir/testCCompiler.c.o  -o cmTC_b12c8 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_b12c8.dir/build.make:87: cmTC_b12c8] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b12c8/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e7223/fast && /usr/bin/make -f CMakeFiles/cmTC_e7223.dir/build.make CMakeFiles/cmTC_e7223.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e7223.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_e7223.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e7223
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7223.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_e7223.dir/testCCompiler.c.o  -o cmTC_e7223 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_e7223.dir/build.make:87: cmTC_e7223] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e7223/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b31ba/fast && /usr/bin/make -f CMakeFiles/cmTC_b31ba.dir/build.make CMakeFiles/cmTC_b31ba.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b31ba.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_b31ba.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_b31ba
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b31ba.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_b31ba.dir/testCCompiler.c.o  -o cmTC_b31ba 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_b31ba.dir/build.make:87: cmTC_b31ba] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b31ba/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_51a8e/fast && /usr/bin/make -f CMakeFiles/cmTC_51a8e.dir/build.make CMakeFiles/cmTC_51a8e.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_51a8e.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_51a8e.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_51a8e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_51a8e.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_51a8e.dir/testCCompiler.c.o  -o cmTC_51a8e 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_51a8e.dir/build.make:87: cmTC_51a8e] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_51a8e/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_741da/fast && /usr/bin/make -f CMakeFiles/cmTC_741da.dir/build.make CMakeFiles/cmTC_741da.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_741da.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_741da.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_741da
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_741da.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_741da.dir/testCCompiler.c.o  -o cmTC_741da 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_741da.dir/build.make:87: cmTC_741da] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_741da/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6fa44/fast && /usr/bin/make -f CMakeFiles/cmTC_6fa44.dir/build.make CMakeFiles/cmTC_6fa44.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6fa44.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_6fa44.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_6fa44
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6fa44.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_6fa44.dir/testCCompiler.c.o  -o cmTC_6fa44 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_6fa44.dir/build.make:87: cmTC_6fa44] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6fa44/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c4f55/fast && /usr/bin/make -f CMakeFiles/cmTC_c4f55.dir/build.make CMakeFiles/cmTC_c4f55.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c4f55.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_c4f55.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c4f55
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c4f55.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_c4f55.dir/testCCompiler.c.o  -o cmTC_c4f55 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_c4f55.dir/build.make:87: cmTC_c4f55] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_c4f55/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_244c9/fast && /usr/bin/make -f CMakeFiles/cmTC_244c9.dir/build.make CMakeFiles/cmTC_244c9.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_244c9.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_244c9.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_244c9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_244c9.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_244c9.dir/testCCompiler.c.o  -o cmTC_244c9 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_244c9.dir/build.make:87: cmTC_244c9] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_244c9/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03a1b/fast && /usr/bin/make -f CMakeFiles/cmTC_03a1b.dir/build.make CMakeFiles/cmTC_03a1b.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_03a1b.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_03a1b.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_03a1b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03a1b.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_03a1b.dir/testCCompiler.c.o  -o cmTC_03a1b 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_03a1b.dir/build.make:87: cmTC_03a1b] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_03a1b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0a7a7/fast && /usr/bin/make -f CMakeFiles/cmTC_0a7a7.dir/build.make CMakeFiles/cmTC_0a7a7.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0a7a7.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_0a7a7.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_0a7a7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0a7a7.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_0a7a7.dir/testCCompiler.c.o  -o cmTC_0a7a7 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_0a7a7.dir/build.make:87: cmTC_0a7a7] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_0a7a7/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_adde3/fast && /usr/bin/make -f CMakeFiles/cmTC_adde3.dir/build.make CMakeFiles/cmTC_adde3.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_adde3.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_adde3.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_adde3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_adde3.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_adde3.dir/testCCompiler.c.o  -o cmTC_adde3 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_adde3.dir/build.make:87: cmTC_adde3] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_adde3/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_aa753/fast && /usr/bin/make -f CMakeFiles/cmTC_aa753.dir/build.make CMakeFiles/cmTC_aa753.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aa753.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_aa753.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_aa753
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa753.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_aa753.dir/testCCompiler.c.o  -o cmTC_aa753 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_aa753.dir/build.make:87: cmTC_aa753] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_aa753/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_81fd4/fast && /usr/bin/make -f CMakeFiles/cmTC_81fd4.dir/build.make CMakeFiles/cmTC_81fd4.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_81fd4.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_81fd4.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_81fd4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81fd4.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_81fd4.dir/testCCompiler.c.o  -o cmTC_81fd4 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_81fd4.dir/build.make:87: cmTC_81fd4] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_81fd4/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ba81b/fast && /usr/bin/make -f CMakeFiles/cmTC_ba81b.dir/build.make CMakeFiles/cmTC_ba81b.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ba81b.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_ba81b.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_ba81b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba81b.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_ba81b.dir/testCCompiler.c.o  -o cmTC_ba81b 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_ba81b.dir/build.make:87: cmTC_ba81b] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_ba81b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a2f49/fast && /usr/bin/make -f CMakeFiles/cmTC_a2f49.dir/build.make CMakeFiles/cmTC_a2f49.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a2f49.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_a2f49.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_a2f49
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f49.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_a2f49.dir/testCCompiler.c.o  -o cmTC_a2f49 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_a2f49.dir/build.make:87: cmTC_a2f49] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a2f49/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8d0aa/fast && /usr/bin/make -f CMakeFiles/cmTC_8d0aa.dir/build.make CMakeFiles/cmTC_8d0aa.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8d0aa.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_8d0aa.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_8d0aa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d0aa.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_8d0aa.dir/testCCompiler.c.o  -o cmTC_8d0aa 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_8d0aa.dir/build.make:87: cmTC_8d0aa] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_8d0aa/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_90b5b/fast && /usr/bin/make -f CMakeFiles/cmTC_90b5b.dir/build.make CMakeFiles/cmTC_90b5b.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_90b5b.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_90b5b.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_90b5b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90b5b.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_90b5b.dir/testCCompiler.c.o  -o cmTC_90b5b 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_90b5b.dir/build.make:87: cmTC_90b5b] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_90b5b/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /bin/arm-none-eabi-gcc-9.2.1 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_77716/fast && /usr/bin/make -f CMakeFiles/cmTC_77716.dir/build.make CMakeFiles/cmTC_77716.dir/build
+make[1]: Entering directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_77716.dir/testCCompiler.c.o
+/bin/arm-none-eabi-gcc-9.2.1    -o CMakeFiles/cmTC_77716.dir/testCCompiler.c.o   -c /home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_77716
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77716.dir/link.txt --verbose=1
+/bin/arm-none-eabi-gcc-9.2.1      CMakeFiles/cmTC_77716.dir/testCCompiler.c.o  -o cmTC_77716 
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_77716.dir/build.make:87: cmTC_77716] Error 1
+make[1]: Leaving directory '/home/leomar/pico/pico-tflmicro/examples/wine/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_77716/fast] Error 2
+
+
+
